@@ -18,7 +18,7 @@ body {
 
 /* Hide border line of sidebar */
 #content{
-  width: 65% !important;
+  width: 90% !important;
   border: 0px;
   border-radius: 10px !important;
   box-shadow:0px 15px 80px -10px rgba(0, 0, 0, 0.8) !important;

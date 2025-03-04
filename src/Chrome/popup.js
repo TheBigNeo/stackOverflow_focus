@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
       chrome.storage.local.get(['width'], function (data) {
         // Check if local storage width is empty
         if (typeof data.width != 'string') {
-          widthInput.value = 65;
+          widthInput.value = 90;
         } else {
           widthInput.value = data.width;
         }

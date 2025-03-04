@@ -1,5 +1,5 @@
 let isFocused = false;
-let width = "65";
+let width = "90";
 let borderRadius = "10";
 var isShadow = true;
 var defaultShadow = "0px 15px 80px -10px rgba(0, 0, 0, 0.8)";

@@ -2,8 +2,12 @@ body {
   visibility: hidden;
 }
 
+html.html__unpinned-leftnav body>.container{
+  max-width: 90% !important;
+}
+
 header{
-  width: 65% !important;
+  width: 90% !important;
   margin: 20px auto !important;
   border-radius: 10px;
   margin-bottom: 20px;
